@@ -1,8 +1,6 @@
 # Neural_Image_Processing_lab01
 
-## Write a short paragraph explaining everything you did to improve the accuracy of your CNN:
-
-I have few things following to improve the accuracy of CNN:
+## What I did to improve the accuracy of your CNN:
 1. Increased number of epochs
 2. Put more neurons 
 3. Put more layers
